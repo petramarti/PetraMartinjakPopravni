@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Popravni</string>
+    <string name="downloadSport">Download sport</string>
+    <string name="downloadSportas">Download sportasi</string>
+    <string name="showDB">Prikazi bazu</string>
+</resources>
